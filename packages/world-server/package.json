@@ -1,0 +1,17 @@
+{
+  "name": "world-server",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "license": "BSD-3-Clause",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "world": "workspace:*",
+    "xml-obj": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}

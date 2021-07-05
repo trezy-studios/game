@@ -1,0 +1,66 @@
+If you're having trouble naming units here's a quick tip.
+
+
+
+-------------- Barbarians (Stronghold) --------------
+Goblin 
+Harpy 
+Wolf Rider 
+Centaur 
+Shaman 
+Troll 
+Cyclops
+
+----------------- Demons (Inferno) ------------------
+Imp 
+Juggler 
+Hellhound 
+Demon
+Warden
+Efreet
+Devil
+
+----------------- Humans (Castle) -------------------
+Pikeman 
+Archer 
+Griffin 
+Swordsman 
+Monk 
+Cavalier 
+Paladin 
+
+-------------- Lizardmens (Enclave) -----------------
+Leech 
+Scout
+Battler 
+Big Snake 
+Dreamwalker 
+Basilisk 
+Ancient
+
+------------------ Sagesy (Tower) -------------------
+Gremlin
+Gargoyle
+Golem
+Mage
+Djinn 
+Lion
+Titan
+
+--------------- Undeads (Necropolis) ----------------
+Skeleton 
+Zombie
+Spider 
+Ghost 
+Vampire 
+Lich
+Death Knight 
+
+-------------- Wood Elves (Rampart) -----------------
+Pixie 
+Dwarf 
+Satyr 
+Hunter 
+Deer 
+Druid 
+Treant 

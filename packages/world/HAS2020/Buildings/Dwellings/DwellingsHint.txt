@@ -1,0 +1,80 @@
+If you're having trouble naming dwellings, here's a quick tip.
+
+
+
+-------------- Barbarians (Stronghold) --------------
+Units --------------------------------- Dwelling Name
+
+Goblin .............................. Goblin Barracks
+Harpy .................................... Harpy Nest
+Wolf Rider ............................. Wolf Kennels
+Centaur ............................. Centaur Stables
+Shaman ............................. House of Spirits
+Troll ..................................... Troll Pit
+Cyclops ................................ Cyclops Cave
+
+----------------- Demons (Inferno) ------------------
+Units --------------------------------- Dwelling Name
+
+Imp ..................................... Imp Chamber
+Juggler ................................ Hall of Fire
+Hellhound ..........................  Howling Kennels
+Demon ..................................... Demon Pit
+Warden .......................... Altar of Tormentors
+Efreet ................................ Volcanic Hall
+Devil ............................... Forsaken Temple
+
+----------------- Humans (Castle) -------------------
+Units --------------------------------- Dwelling Name
+
+Pikeman .................................. Guardhouse
+Archer ................................ Archery Range
+Griffin ................................ Griffin Nest
+Swordsman .................................. Barracks
+Monk ...................................... Monastery
+Cavalier ........................... Training Grounds
+Paladin ................................... Cathedral 
+
+-------------- Lizardmens (Enclave) -----------------
+Units --------------------------------- Dwelling Name
+
+Leech .................................... Leech pond
+Scout .................................. Scout School
+Battler ................................ Battler Hall
+Big Snake ................................ Snake Nest
+Dreamwalker ............................ Cursed Altar
+Basilisk ............................... Basilisk Pit
+Ancient ............................ Abandoned Temple
+
+------------------ Sagesy (Tower) -------------------
+Units --------------------------------- Dwelling Name
+
+Gremlin ............................ Gremlin workshop
+Gargoyle ............................... Stone Temple
+Golem ................................. Golem foundry
+Mage ..................................... Mage Tower
+Djinn .............................. Temple of Wishes
+Lion .................................... Battletower
+Titan .............................. Thunder Coliseum
+
+--------------- Undeads (Necropolis) ----------------
+Units --------------------------------- Dwelling Name
+
+Skeleton .............................. Pile of Bones
+Zombie .................................... Graveyard
+Spider .................................. Spider Nest
+Ghost ......................................... Crypt
+Vampire .............................. Vampire palace
+Lich ...................................... Mausoleum
+Death Knight ..................... Darkness Cathedral 
+
+-------------- Wood Elves (Rampart) -----------------
+Units --------------------------------- Dwelling Name
+
+Pixie .................................. Magic Garden
+Dwarf .................................. Dwarven Mine
+Satyr ................................... Satyr Glade
+Hunter ................................ Hunters Cabin
+Deer ................................... Deer Stables
+Druid ................................  Forest Temple
+Treant ................................ Treant Refuge

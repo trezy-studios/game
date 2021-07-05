@@ -1,0 +1,20 @@
+{
+    "maps": [
+        {
+            "fileName": "../maps/Etherwilds.tmx",
+            "height": 4800,
+            "width": 4800,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "fileName": "../maps/Lostglen.tmx",
+            "height": 1600,
+            "width": 1600,
+            "x": -1600,
+            "y": 1488
+        }
+    ],
+    "onlyShowAdjacentMaps": false,
+    "type": "world"
+}

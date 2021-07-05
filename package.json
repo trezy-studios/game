@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "BSD-3-Clause",
+  "scripts": {
+    "build:web": "yarn workspace game build",
+    "start:world-server": "yarn workspace world-server start",
+    "start:game": "yarn workspace game start"
+  },
+  "workspaces": [
+    "packages/game",
+    "packages/world",
+    "packages/world-server"
+  ]
+}
